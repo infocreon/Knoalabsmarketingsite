@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*/thank-you
+
+Sitemap: https://lp.knoalabs.com/sitemap.xml

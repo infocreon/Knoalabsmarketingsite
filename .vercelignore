@@ -1,0 +1,6 @@
+# Internal docs and scripts are not published
+*.md
+**/*.md
+integrations/
+.vercel
+.env*

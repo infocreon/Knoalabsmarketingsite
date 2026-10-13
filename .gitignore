@@ -1,0 +1,7 @@
+.vercel
+.env*
+# Internal: Apps Script code (contains form secrets) and working notes
+integrations/
+README.md
+**/CONTENT-CHECKLIST.md
+**/TRACKING.md
