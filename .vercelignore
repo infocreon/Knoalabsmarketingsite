@@ -1,0 +1,13 @@
+# Internal docs, tools and server config are never published by Vercel
+*.md
+**/*.md
+integrations/
+docs/
+scripts/
+deploy/
+.github/
+node_modules/
+package.json
+package-lock.json
+.vercel
+.env*

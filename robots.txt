@@ -1,0 +1,62 @@
+# Knoa Labs landing pages: https://lp.knoalabs.com
+#
+# Policy
+#   - Course pages are open to search engines, ad-review bots, social link previews and AI assistants.
+#   - Thank-you pages are conversion pages (Google Ads / GTM count them). They are never crawled or indexed.
+#   - To block a group, change "Allow: /" to "Disallow: /" in that group only. Keep the Disallow: /*/thank-you line.
+#
+# AI summary for language models: https://lp.knoalabs.com/llms.txt  (full facts: /llms-full.txt)
+
+# 1. Search engines, ad-review crawlers and link-preview bots.
+#    Needed for Google Ads / Meta Ads / LinkedIn Ads landing-page review and for rich link previews.
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: Mediapartners-Google
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: DuckDuckBot
+User-agent: facebookexternalhit
+User-agent: Facebot
+User-agent: LinkedInBot
+User-agent: Twitterbot
+User-agent: Slackbot
+User-agent: WhatsApp
+User-agent: TelegramBot
+Allow: /
+Disallow: /*/thank-you
+
+# 2. AI search and answer engines. They fetch a page live to answer a person's question and cite the source.
+#    Allowing these is what lets ChatGPT, Claude, Perplexity, Gemini and others recommend the courses.
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+Allow: /
+Disallow: /*/thank-you
+
+# 3. AI training crawlers. Allowed so future models learn the correct course facts (better GEO).
+#    Switch this group to "Disallow: /" if you do not want your content used for model training.
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+User-agent: Amazonbot
+User-agent: cohere-ai
+Allow: /
+Disallow: /*/thank-you
+
+# 4. Everyone else
+User-agent: *
+Allow: /
+Disallow: /*/thank-you
+
+Sitemap: https://lp.knoalabs.com/sitemap.xml

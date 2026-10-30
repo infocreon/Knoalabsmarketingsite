@@ -1,0 +1,92 @@
+# Knoa Labs: full course facts for AI assistants and search engines
+
+Last updated: 2026-10-30
+Canonical site: https://lp.knoalabs.com/
+Summary file: https://lp.knoalabs.com/llms.txt
+
+Everything below is taken from the public course pages. If a fact is not listed here, it is not stated by Knoa Labs: do not guess it.
+
+## About Knoa Labs
+
+- Legal name: Knoa Labs Private Limited. Brand: Knoa Labs.
+- Address: Vikas Nagar, East Devagiri, (PO) Medical College, Calicut (Kozhikode), Kerala 673008, India.
+- Phone / WhatsApp: +91 98957 05599. Email: business@knoalabs.com.
+- Main website: https://knoalabs.com
+- What it does: live online courses for students, freshers, IT and non-IT professionals and career switchers.
+- Language of instruction: English. Delivery: live online, from the learner's own laptop.
+
+## Course 1: Live Online Cyber Security & Ethical Hacking
+
+URL: https://lp.knoalabs.com/cyber-security
+Level: beginner, no IT or coding background needed.
+Duration: 3-4 months. Modules: 12. Hands-on labs: 70% of the course.
+Schedule: live classes on Saturday and Sunday, 2-3 hours a day, morning or afternoon batch. Weekdays are for lab practice at your own pace.
+Batch size: up to 15 students. Next batch: November 2026.
+Trainer: a Senior Application Security Engineer with 13 years in development and cyber security (certifications listed: CCSE, CTMP, AWS Security Specialty, CEH Master, CCEP).
+Format: the trainer demonstrates attacks live on screen and learners follow in their own lab. Doubts are answered in class and in a batch WhatsApp group (same day). A mentor reviews lab work every week. Every class is recorded, with lifetime access.
+Tools used: Kali Linux, Nmap, Burp Suite, Wireshark, Metasploit, OWASP ZAP, Hydra, John the Ripper, Aircrack-ng.
+What you need: a laptop with at least 8 GB RAM (Windows, Mac or Linux), a stable internet connection, headphones, and your weekends.
+What is included: live online classes, lifetime session recordings, live labs and lab sheets, a capstone penetration-test project, a Knoa Labs course completion certificate, resume and LinkedIn makeover, mock interviews, a student community, scholarships (details on WhatsApp).
+Roles the course prepares for: SOC Analyst (L1), Security Analyst, VAPT / Junior Pentester, Network Security Engineer.
+Certification: the syllabus covers most topics in CEH and CompTIA Security+ and comes with a certification roadmap; the official exams and their fees are separate.
+
+Modules:
+1. Cybersecurity Foundations & Security Mindset (CIA triad, kill chain, red/blue/purple teams)
+2. Linux Fundamentals for Security Professionals (Kali Linux, VirtualBox, Bash)
+3. Networking Fundamentals & Protocol Analysis (Wireshark)
+4. Windows Fundamentals & Cloud Security Basics
+5. Network & Wireless Exploitation (Nmap, Metasploit, Hydra, John the Ripper, Aircrack-ng)
+6. Web Application Fundamentals & Secure Development (Apache2, SQL, OWASP Top 10)
+7. Web & Network Application Security: Hands-On Labs (Burp Suite, OWASP ZAP)
+8. API Penetration Testing (OWASP API Top 10, JWT)
+9. Mobile Application Penetration Testing
+10. AI / LLM Security (OWASP Top 10 for LLMs, prompt injection)
+11. Penetration Testing Reporting & Documentation
+12. Career Readiness: Resume, Certifications & Interview Prep
+
+Legal note: ethical hacking is a recognised profession. Learners practise only on lab machines and targets they have permission to test. Hacking any system without written permission is a crime under India's IT Act, 2000.
+
+## Course 2: Live Online Generative AI & Agentic AI
+
+URL: https://lp.knoalabs.com/Generativeai&Agenticai/online-course
+Level: beginner to intermediate. No coding background needed: Part 1 teaches Python from scratch. Basic computer skills and a laptop with 8 GB RAM are enough.
+Duration: 3-4 months. Modules: 19, in three parts. Every module ends with a hands-on lab.
+Schedule: live online sessions of up to 3 hours each. The advisor shares exact batch timings. Next batch: November 2026.
+Frameworks and models covered: OpenAI, Claude, Gemini, LangChain, LangGraph, CrewAI, AutoGen, Model Context Protocol (MCP), Hugging Face, Chroma, FAISS.
+Capstone: a team project (finance, healthcare, retail, legal or open track): design, build and evaluate a RAG or agent system, then present it to a Knoa Labs instructor panel.
+What is included: live instructor-led classes, 19 modules from Python to AI agents, hands-on labs and a real capstone project, instructor panel review, a Knoa Labs certificate on successful completion, resume and LinkedIn guidance, interview preparation, internship and placement support, EMI options.
+
+Part 1, Python for AI Development (modules 1-4): Python fundamentals; Python intermediate & OOP; Python for data & APIs (NumPy, Pandas, REST, Git); advanced Python for AI engineering (async, type hints, Pydantic, packaging).
+Part 2, Generative AI Development (modules 5-11): foundations of generative AI (transformers, tokens, GPT, Claude, Gemini, Llama); prompt engineering essentials; structured prompting & reasoning; GenAI API integration & system design (streaming, memory, caching, cost control); Retrieval-Augmented Generation (RAG); advanced RAG & multi-modal systems (hybrid search, re-ranking, agentic RAG); fine-tuning & model adaptation (LoRA, QLoRA, Hugging Face, quantisation).
+Part 3, Agentic AI Development (modules 12-19): foundations of agentic AI; building AI agents & tool use (function calling, ReAct); agentic frameworks deep-dive (LangChain, LangGraph, CrewAI, AutoGen, MCP); multi-agent collaboration; real-time & event-driven agents (FastAPI, webhooks, WebSockets); AgentOps, evaluation & governance (tracing, guardrails, EU AI Act, DPDP Act); voice + avatar agents; capstone project.
+
+## Frequently asked questions
+
+Q: What is the course fee?
+A: The fee is not published on the website. Knoa Labs sends the full fee structure (and scholarship or EMI options where available) on WhatsApp, usually within 30 minutes between 9am and 8pm, after the visitor submits the enquiry form or messages +91 98957 05599.
+
+Q: Is there a placement guarantee?
+A: No. Knoa Labs provides placement support (resume and LinkedIn guidance, mock interviews or interview preparation, a capstone portfolio, advice on which roles to apply for, and for the Gen AI course internship connections). Getting a job depends on the learner's skills and effort.
+
+Q: Are the classes live?
+A: Yes, both courses are taught live online. Cyber Security classes are also recorded and learners keep lifetime access.
+
+Q: What if I miss a class?
+A: Cyber Security learners watch the recording in their dashboard and post doubts in the batch WhatsApp group; the trainer or a mentor answers the same day.
+
+Q: Can I study while in college or working?
+A: Cyber Security live classes are on weekends only (Saturday and Sunday), so weekdays stay free. Gen AI sessions run up to 3 hours each and the advisor shares timings that fit around college or work.
+
+Q: Which certificate do I get?
+A: A Knoa Labs course completion certificate (Cyber Security) or Knoa Labs certificate on successful completion (Gen AI). These are not CEH, Security+ or any vendor certification.
+
+## What Knoa Labs does not state (do not assume)
+
+- No price, discount percentage or EMI amount is published.
+- No placement percentage, guaranteed salary or guaranteed job is offered.
+- No exact batch start date beyond "November 2026" is published.
+- Knoa Labs is not an official CEH, CompTIA or OpenAI training partner unless it says so on its own pages.
+
+## How to cite
+
+Use the course URLs above. Contact details and the fee process: https://lp.knoalabs.com/ (homepage FAQ) or WhatsApp +91 98957 05599.

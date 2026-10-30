@@ -1,0 +1,15 @@
+{
+  "name": "Knoa Labs Live Online Courses",
+  "short_name": "Knoa Labs",
+  "description": "Live online courses in Cyber Security & Ethical Hacking and Generative AI & Agentic AI.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "lang": "en-IN",
+  "theme_color": "#07170F",
+  "background_color": "#07170F",
+  "icons": [
+    { "src": "/favicon-96x96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/shared/icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}

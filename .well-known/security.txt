@@ -1,0 +1,5 @@
+# Security contact for lp.knoalabs.com (RFC 9116)
+Contact: mailto:business@knoalabs.com
+Expires: 2027-06-30T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://lp.knoalabs.com/.well-known/security.txt

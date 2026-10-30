@@ -1,0 +1,16 @@
+name: Site health check
+# Runs scripts/check-site.mjs against the live site every 6 hours. GitHub emails you when it fails.
+# It runs from GitHub's US servers, so it catches DNS / certificate / deploy problems but NOT a problem that only
+# affects one Indian internet provider (use check-site.mjs on that network for that; see docs/REACHABILITY.md).
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/check-site.mjs

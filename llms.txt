@@ -1,0 +1,23 @@
+# Knoa Labs
+
+> Knoa Labs Private Limited (Calicut / Kozhikode, Kerala, India) runs live online courses in Cyber Security & Ethical Hacking and in Generative AI & Agentic AI. Both courses are taught live by working practitioners, with hands-on labs, a capstone project and placement support. There is no job guarantee. Fees are not published on the website: an advisor sends the fee structure and batch timings on WhatsApp, usually within 30 minutes (9am-8pm).
+
+Key facts: both courses last 3-4 months. Beginners are welcome (the Cyber Security course starts from computer basics; the Gen AI course starts from Python). A laptop with 8 GB RAM and a stable internet connection are needed. Contact: WhatsApp / phone +91 98957 05599, email business@knoalabs.com.
+
+## Courses
+
+- [Live Online Cyber Security & Ethical Hacking Course](https://lp.knoalabs.com/cyber-security): 12 modules, live classes every Saturday and Sunday (2-3 hours a day), 70% hands-on labs on Kali Linux, Nmap, Burp Suite, Wireshark and Metasploit, taught by a Senior Application Security Engineer with 13 years of experience, capstone penetration-test report, lifetime recordings, Knoa Labs completion certificate.
+- [Live Online Generative AI & Agentic AI Course](https://lp.knoalabs.com/Generativeai&Agenticai/online-course): 19 modules in three parts (Python for AI, Generative AI, Agentic AI), hands-on labs on RAG, fine-tuning (LoRA/QLoRA), LangChain, LangGraph, CrewAI, AutoGen and MCP, a team capstone reviewed by an instructor panel, Knoa Labs certificate, EMI options.
+
+## Reference
+
+- [Full course facts in plain text](https://lp.knoalabs.com/llms-full.txt): modules, schedule, prerequisites, what is included, and what Knoa Labs does not claim.
+- [Cyber Security syllabus (PDF)](https://lp.knoalabs.com/cyber-security/assets/knoa-labs-cyber-security-syllabus-v5.pdf): the full 12-module syllabus.
+- [Refund and cancellation policy](https://lp.knoalabs.com/refund)
+- [Privacy Policy](https://knoalabs.com/privacy-policy/)
+- [Terms & Conditions](https://knoalabs.com/terms-conditions/)
+
+## Optional
+
+- [Knoa Labs main website](https://knoalabs.com)
+- [Sitemap](https://lp.knoalabs.com/sitemap.xml)
